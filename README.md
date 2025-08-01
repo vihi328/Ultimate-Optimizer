@@ -29,11 +29,6 @@ Built with a sleek **custom GUI** in Python (tkinter), **Ultimate System Optimiz
 ---
 
 ## 📦 Installation
-
-### Prerequisites:
-- Python 3.9+ (if running from source)
-- Pillow (`pip install pillow`)
-
 ---
 
 ## 🏃 Usage
