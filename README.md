@@ -24,7 +24,7 @@ Built with a sleek **custom GUI** in Python (tkinter), **Ultimate System Optimiz
 ---
 
 ## 📸 Screenshots
-> _Add your screenshots here_
+[Main Window](images/screenshot1.png)
 
 ---
 
